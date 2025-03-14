@@ -60,5 +60,5 @@ a_string, d_string, b_string, c_string = extract_b_c_strings(a_string, d_string)
 
 print(">chain_a\n" + a_string)
 print(">chain_b\n" + b_string)
-print(">chain_d\n" + d_string)
 print(">chain_c\n" + c_string)
+print(">chain_d\n" + d_string)
