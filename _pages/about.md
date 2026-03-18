@@ -35,5 +35,4 @@ Hello, My name is Jai! I’m a third-year undergraduate at the University of Ten
 
 Throughout my time at UTK, I have been extremely fortunate to work with many mentors: [Jerry Parks](https://www.ornl.gov/staff-profile/jerry-m-parks), [Jeremy Smith](https://www.ornl.gov/staff-profile/jeremy-c-smith), [Scott Emrich](https://web.eecs.utk.edu/~semrich/), [Ken Lau](https://www.kenlaulab.org), [Jiyang Yu](https://www.stjude.org/research/labs/yu-lab.html), and more. 
 
-### Currently, I am a **Visiting Undergraduate Researcher at the Broad Institute of MIT and Harvard
-, working on [Project Ex Vivo](https://exvivo.broadinstitute.org/).** Feel free to reach out always at jmm@utk.edu!
+### Currently, I am a **Visiting Undergraduate Researcher at the Broad Institute of MIT and Harvard, working on [Project Ex Vivo](https://exvivo.broadinstitute.org/).** Feel free to reach out always at jmm@utk.edu!
