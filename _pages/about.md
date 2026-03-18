@@ -27,12 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello, My name is Jai! I’m a third-year undergraduate at the University of Tennessee, Knoxville, where I study Honors Computer Science and Honors Computational Biology and Biomedical Machine Learning. My research involves integrating machine learning principles to tackle biological and biomedical problems - specifically, I want to improve world-model representation at the systems and structural scale. I’m currently interested in the following:
+Hello, my name is Jai! I’m a third-year undergraduate at the University of Tennessee, Knoxville, where I study Honors Computer Science and Honors Computational Biology and Biomedical Machine Learning. My research involves integrating machine learning principles to tackle biological and biomedical problems - specifically, I want to improve world-model representation at the systems and structural scale. I’m currently interested in the following:
 
-* How can we use protein foundation models to *redesign* enzyme-substrate models, moreso for antibody design?
+* How can we use protein foundation models to *redesign* enzyme-substrate models, more so for antibody design?
 * What data, and how much data, enables the most powerful omic-foundation models?
-* How do we ensure that embeddings represent the physical world in an interpretable fashion?
+* How do we ensure that embeddings represent the biological world in an interpretable fashion?
 
 Throughout my time at UTK, I have been extremely fortunate to work with many mentors: [Jerry Parks](https://www.ornl.gov/staff-profile/jerry-m-parks), [Jeremy Smith](https://www.ornl.gov/staff-profile/jeremy-c-smith), [Scott Emrich](https://web.eecs.utk.edu/~semrich/), [Ken Lau](https://www.kenlaulab.org), [Jiyang Yu](https://www.stjude.org/research/labs/yu-lab.html), and more. 
 
-### Currently, I am a **Visiting Undergraduate Researcher at the Broad Institute of MIT and Harvard, working on [Project Ex Vivo](https://exvivo.broadinstitute.org/).** Feel free to reach out always at jmm@utk.edu!
+### Currently, I am a **Visiting Undergraduate Researcher at the Broad Institute of MIT and Harvard, working on [Project Ex Vivo](https://exvivo.broadinstitute.org/).** Feel free to reach out always at jmm at utk dot edu!
