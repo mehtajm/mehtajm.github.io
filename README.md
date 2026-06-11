@@ -1,2 +1,1 @@
-# jmm.github.io
-Personal Website redirect
+# mehtajm.github.io
