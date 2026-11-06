@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello, my name is Jai! I’m a third-year undergraduate at the University of Tennessee, Knoxville, where I study Honors Computer Science and Honors Computational Biology and Biomedical Machine Learning. My research involves integrating machine learning principles to tackle biological and biomedical problems - specifically, I want to improve world-model representation at the systems and structural scale. I’m currently interested in the following:
+Hello, my name is Jai! I’m a fourth-year undergraduate at the University of Tennessee, Knoxville, where I study Honors Computer Science and Honors Computational Biology and Biomedical Machine Learning. My research involves integrating machine learning principles to tackle biological and biomedical problems - specifically, I want to improve world-model representation at the systems and structural scale. I’m currently interested in the following:
 
 * How can we use protein foundation models to *redesign* enzyme-substrate models, more so for antibody design?
 * What data, and how much data, enables the most powerful omic-foundation models?
